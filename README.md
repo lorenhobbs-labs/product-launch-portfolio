@@ -3,6 +3,7 @@ Selected product launch, go-to-market, ecosystem, and platform strategy examples
 ## PSoC 3 and PSoC 5 Platform Launch
 
 https://www.infineon.com/products/microcontroller/legacy/8-bit-16-bit/psoc-3
+
 https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-5-lp-m3
 
 
